@@ -1,5 +1,7 @@
+## Python Implementation
 This is the python implementation of the SOCD project.
 
+### Required package
 The file requirements.txt provides the packages required by the program.
 
 The dataset is located in the input path, and the final output is located in the output path.
