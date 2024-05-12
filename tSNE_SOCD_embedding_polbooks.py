@@ -42,7 +42,7 @@ plt.figure(figsize=(6,4))
 sns.scatterplot(
     x="x", y="y",
     hue="label",
-    palette=sns.color_palette("hls", 10),
+    palette=sns.color_palette("hls", 3),
     data=df,
     legend=False,
     alpha=0.3
